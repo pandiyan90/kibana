@@ -111,7 +111,7 @@ export class TutorialDirectory extends React.Component {
         <EuiSpacer size="s" />
         <EuiTitle size="l">
           <h1>
-            Add Data to Kibana
+            Add Data
           </h1>
         </EuiTitle>
 

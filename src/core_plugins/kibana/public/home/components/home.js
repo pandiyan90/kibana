@@ -182,7 +182,7 @@ export function Home({ addBasePath, directories, isCloudEnabled }) {
       >
         <EuiFlexItem>
           <EuiTitle size="l">
-            <h1>Add Data to Kibana</h1>
+            <h1>Add Data</h1>
           </EuiTitle>
           <EuiText>
             <p>
@@ -258,7 +258,7 @@ export function Home({ addBasePath, directories, isCloudEnabled }) {
             buttonType="secondary"
             href="#/home/feature_directory"
           >
-            View full directory of Kibana plugins
+            View full directory of plugins
           </KuiLinkButton>
         </EuiFlexItem>
       </EuiFlexGroup>

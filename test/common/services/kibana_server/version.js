@@ -15,6 +15,6 @@ export class KibanaServerVersion {
       return this._cachedVersionNumber;
     }
 
-    throw new Error(`Unable to fetch Kibana Server status, received ${JSON.stringify(status)}`);
+    throw new Error(`Unable to fetch Application Server status, received ${JSON.stringify(status)}`);
   }
 }
